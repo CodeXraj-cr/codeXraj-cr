@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Raj Dutta
 
-<!--
-**CodeXraj-cr/codeXraj-cr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my portfolio  
 
-Here are some ideas to get you started:
+👉 [🌐 Visit My Website](# 👋 Hi, I'm Raj Dutta
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Welcome to my portfolio  
+
+👉 [🌐 Visit My Website](https://your-username.github.io/portfolio)
+
+---
+
+## 💻 Skills
+- HTML
+- CSS
+- C Programming
+
+## 📂 Projects
+- Portfolio Website
+- C Programs)
+
+---
+
+## 💻 Skills
+- HTML
+- CSS
+- C Programming
+
+## 📂 Projects
+- Portfolio Website
+- C Programs
