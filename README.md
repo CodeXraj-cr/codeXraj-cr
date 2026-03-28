@@ -6,7 +6,7 @@
 
 🚀 Welcome to my portfolio  
 
-👉 [🌐 Visit My Website](https://www.instagram.com/mr.du.tta?igsh=MWlrYXA3anBuZ2MxYQ==)
+👉 [🌐 Visit My Website](https://grand-blancmange-9a64f7.netlify.app/)
 
 ---
 
